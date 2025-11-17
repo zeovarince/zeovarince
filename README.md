@@ -1,5 +1,5 @@
 # 💫 About Me:
-<code> Student | Developer | Learner </code><br>### 👨‍💻 About Me:<br><br>👋 `echo "Hello World! I'm A. Choiril Anwar EL-Asfihani Risydan";`<br><br>* 🎓 Informatics student in Universitas Trunojoyo Madura since of 2024<br>* 🛠️ Spending my days exploring **Web Dev** <br>* 📚 Currently compiling knowledge and leveling up my skills step-by-step<br>* ⚡ Fun fact: I turn caffeine into code.
+<code> Student | Developer | Learner </code><br>👋<code> `echo "Hello World! I'm A. Choiril Anwar EL-Asfihani Risydan";` <code> <br><br>* 🎓 Informatics student in Universitas Trunojoyo Madura since of 2024<br>* 🛠️ Spending my days exploring **Web Dev** <br>* 📚 Currently compiling knowledge and leveling up my skills step-by-step<br>* ⚡ Fun fact: I turn caffeine into code.
 
 
 ## 🌐 Socials:
