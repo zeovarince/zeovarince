@@ -81,3 +81,30 @@
 
 
 <img src="https://raw.githubusercontent.com/Zeovarince/Zeovarince/snake-output/snake.svg" alt="Snake animation" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd5bWZuemlldXEybmd6bXh3dzZraDBtbjdxNHBlbXE0ZXkzN2NuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="50" />
+  <img width="20" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=1&pause=100000&color=2f578a&center=true&vCenter=true&repeat=false&width=500&lines=+STATS" />
+  <img width="20" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd5bWZuemlldXEybmd6bXh3dzZraDBtbjdxNHBlbXE0ZXkzN2NuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="50" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zeovarince/Zeovarince/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
+
+
+
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bk2g5prfo3igjkf6qsl6crs4om&unique={true|1|on|yes})
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
