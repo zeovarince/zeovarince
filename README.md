@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
 <p align="center">
-  <img src="assets/saber.gif" width="100%" />
+  <img src="assets/boy.gif" width="100%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
